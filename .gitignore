@@ -1,0 +1,13 @@
+# .gitignore
+
+# ignore the virtual environment
+
+/venv/*
+
+# ignore the dotenv file
+
+.env
+
+# ignore scripts
+
+/.scripts/*
